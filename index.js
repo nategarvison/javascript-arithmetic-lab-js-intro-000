@@ -11,8 +11,10 @@ function divide(a, b) {
   return a / b;
 }
 function inc(n) {
+  var n;
   return n++;
 }
 function dec(n) {
+  var n;
   return n--;
 }
